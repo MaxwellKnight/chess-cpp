@@ -1,4 +1,5 @@
-#C++ Chess board game
+# 
+C++ Chess board game
 Offline chess game
 Written in c++, using OOP.
 
