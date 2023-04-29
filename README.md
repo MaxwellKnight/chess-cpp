@@ -12,25 +12,20 @@ Compile the source code to generate an executable file.
 
 For Visual Studio Code:
 
-c
 ### Copy code
-$ g++ -std=c++11 *.cpp -o chess.exe
-For GCC:
+  $ g++ -std=c++11 *.cpp -o chess.exe
 
-c
 ### Copy code
-$ g++ -std=c++11 *.cpp -o chess
-Run the executable file to start playing the game.
+  $ g++ -std=c++11 *.cpp -o chess
+  Run the executable file to start playing the game.
 
 ### For Windows:
-
-$ ./chess.exe
+  $ ./chess.exe
 
 ### For Linux or macOS:
+  $ ./chess
 
-$ ./chess
-
-Follow the instructions displayed on the command line to play the game.
+## Follow the instructions displayed on the command line to play the game.
 
 ## Gameplay
 To make a move, input the starting and ending positions of the piece you want to move. For example, to move a pawn from e2 to e4, input the command e2-e4.
